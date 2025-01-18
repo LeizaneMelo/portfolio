@@ -225,7 +225,7 @@ body {
 .sobre_mim, 
 .formacao,
 .contato {
-  background: linear-gradient(45deg,rgb(224, 153, 153),rgb(255, 0, 140));
+  background: linear-gradient(45deg,rgb(224, 153, 153),rgb(212, 184, 210));
   padding: 2rem;
   border-radius: 10px;
   color: #f3f3f3;
